@@ -1,0 +1,20 @@
+# Unity核心冗余文件（必过滤）
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Builds/
+/Assets/AddressableAssetsData/*/Build/*
+/Assets/StreamingAssets/aa/*
+
+# 编辑器/系统冗余文件
+/.vs/
+/Rider/
+/.idea/
+/*.sln
+/*.csproj
+/*.unityproj
+.DS_Store
+Thumbs.db
+ehthumbs.db
